@@ -1,0 +1,16 @@
+# バージョン管理の不要なファイル
+index00
+multilang_db.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/
+.idea/
+*.swp
+
+# ノード関連
+node_modules/
+package-lock.json
